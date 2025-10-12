@@ -1,11 +1,11 @@
-# Code related to Frontend section from Cohort 2.0 Course by Sheryians Coding School.
+# Code related to Front End section from Cohort 2.0 Course by Sheryians Coding School.
 
-### Day 10 - Basics of CSS
+### [Day 10 - Basics of CSS](https://cohort.sagarpalia.com/Tasks/day10/)
 
-### Day 11 - More on CSS
+### [Day 11 - More on CSS](https://cohort.sagarpalia.com/Tasks/day11/)
 
-### Day 13 - Implementing Positioning in CSS
+### [Day 13 - Implementing Positioning in CSS](https://cohort.sagarpalia.com/Tasks/day13/)
 
-### Day 14 - Apple Website Section using flexbox
+### [Day 14 - Apple Website Section using flexbox](https://cohort.sagarpalia.com/Tasks/day14/)
 
-### Day 15 - Flexbox in Detail
+### [Day 15 - Flexbox in Detail](https://cohort.sagarpalia.com/Tasks/day15/)
