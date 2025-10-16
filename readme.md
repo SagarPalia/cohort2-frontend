@@ -13,3 +13,5 @@
 ### [Day 16 - Cards UI - CSS Transitions](https://cohort.sagarpalia.com/tasks/day16/)
 
 ### [Day 17 - Simple Image Carousel - Flexbox and Overflow](https://cohort.sagarpalia.com/tasks/day17/)
+
+### [Day 18 - Grid Layout](https://cohort.sagarpalia.com/tasks/day18/)
